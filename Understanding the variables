@@ -1,0 +1,9 @@
+#name="Aashika"
+name=input("What is your name?\t")
+print( "my name is", name)
+age=input("What is your age?\t")
+print("my age is", age)
+hobby=input("What is your hobby?\t")
+print("My hobby is", hobby)
+colour=input("Whats your favourite colour?\t")
+print("My favourite colour is", colour)
