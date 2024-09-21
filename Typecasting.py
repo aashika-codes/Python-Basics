@@ -1,0 +1,8 @@
+name=input("Enter your name")
+print("The type of name is",type(name))
+age=input("Enter your age")
+print("beforetypecasting")
+print("The type of age is",type(age))
+print("aftertypecasting")
+age=int(age)
+print("The type of age is",type(age))
