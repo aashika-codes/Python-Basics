@@ -1,0 +1,9 @@
+empty_list=[]
+print(empty_list)
+elements_list=[1,2,3]
+print(elements_list)
+multiply_list=[1,2,3,4]*3
+print(multiply_list)
+reverse_list=[1,2,3,4,5]
+reverse_list=reverse_list[::-1]
+print(reverse_list)
