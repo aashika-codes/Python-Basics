@@ -1,0 +1,5 @@
+bill=(2.50)
+print("the original bill is",bill)
+paid=(4)
+print("amount of money given to the shopkeeper",paid)
+print("amount of money the shopkeeper will give is",paid-bill)
