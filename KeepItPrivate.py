@@ -1,9 +1,17 @@
-class myClass:
-    __privar= 27;
-    def __privatemethod(self):
-        print("I am inside class myClass")
-    def hello(self):
-        print("Private Variable Value:",myClass.__privatemethod)
-foo=myClass()
+class myclass():
+
+      __privvar = 27
+
+      def __privmeth(self):
+
+           print("Im inside the class myclass")
+
+      def hello(self):
+
+           print("private variable value: ",myclass.__privvar)
+
+foo = myclass()
+
 foo.hello()
-foo.__privatemethod()
+
+foo.__privmeth()
